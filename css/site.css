@@ -1,17 +1,18 @@
 
+
+
 img.principio{
       display: block;
-      margin-left: auto;
-      margin-right: auto;
-      width: 50%;}
-    }
-img.small-link {
-  padding: 30px;
-width: 100px
-px
-;
-margin: 50px;
-    }
+      width: 50%;
+      float: right;
+      margin-right: 254px;
+}
+
+.small-link {
+      padding: 30px;
+      width: 10%;
+      margin: 10px;
+}
 
 p{
   color:purple;
