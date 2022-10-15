@@ -1,0 +1,30 @@
+
+
+h1.mamalones {
+    font-family: fantasy;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-color: aquamarine;
+    }
+
+h2.mamones {
+    font-family: fantasy;
+    text-align: center;
+    padding: 10px;
+    background-color: bisque;
+  }
+
+p.rellenos {
+    color: #000000;
+    text-align: justify;
+    font-weight: bold;
+    padding: 10px;
+    font-family: fantasy;
+    background-color: darksalmon;
+  }
+
+img.foto {
+    margin-left: 465px;
+    float: right;
+  }
