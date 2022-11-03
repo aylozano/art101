@@ -1,0 +1,44 @@
+#output {
+  width: 500px;
+  height: 500px;
+  background-color: pink;
+}
+
+h1.mamalones {
+    font-family: fantasy;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    color: purple;
+    background-color: black;
+    transform: translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(49deg) rotateY(169deg) rotateZ(162deg) skew(287deg, 201deg);
+    color: rgb(255, 255, 255);
+    transform-style: preserve-3d;
+    }
+
+h2.mamones {
+    font-family: fantasy;
+    text-align: center;
+    padding: 10px;
+    background-color: bisque;
+  }
+
+p.rellenos {
+    color: #000000;
+    text-align: justify;
+    font-weight: bold;
+    padding: 10px;
+    font-family: fantasy;
+    background-color: darksalmon;
+  }
+
+body {
+  ackground-image: url("../img/breaddog.jpg");
+  width: 500px;
+  height: 500px;
+  background-color: pink;
+}
+
+label, input, button {
+  display:;
+}
