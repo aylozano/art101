@@ -1,0 +1,18 @@
+
+
+body {
+  background-color: pink;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-style: solid;
+  border-width: thick;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-border: solid;
+}
+
+#experimento {
+  background-color: #C3F1F3;
+}

@@ -14,10 +14,10 @@ $('#buttonChalEl').click( function(){
   $('#challenge').toggleClass("special");
 });
 
-$('#buttonResEl').click( function(){
-  $('#result').toggleClass("double-special");
-});
-
 $('#buttonProbEl').click( function(){
   $('#problem').toggleClass("triplediple-special");
+});
+
+$('#buttonResEl').click( function(){
+  $('#result').toggleClass("double-special");
 });
